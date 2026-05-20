@@ -1,3 +1,15 @@
+# Pasos para ejecutar
+
+
+- Crear base de datos PostgreSQL con los datos de /sql/db.sql
+```shell
+cd back-prueba && npm i && npm start
+```
+```shell
+cd front-prueba && npm i && npm run dev
+```
+- Página en http://localhost:5173
+
 # Desarrollo de una funcionalidad mínima 
 
 - [x] Modelo de Datos:
